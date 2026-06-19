@@ -21,7 +21,7 @@
 | 💼 |  | 📚 |
 |---|---|---|
 | Developer & Content Creator | Bots WhatsApp/Telegram con IA | Enseñando en TikTok & YouTube |
-| 🐍 Python | 💡 Aprendiendo en público |  Creando contenido tech |
+| 🐍 Python |  Aprendiendo en público |  Creando contenido tech |
 
 </div>
 
@@ -127,7 +127,5 @@
 <div align="center">
 
 ### ⚡ "Enseñando lo que aprendo, aprendiendo lo que enseño" ⚡
-
-[![Visit Profile](https://img.shields.io/badge/Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrassaavedra23-hue)
 
 </div>
