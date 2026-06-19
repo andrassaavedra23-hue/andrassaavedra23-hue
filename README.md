@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 <div align="center">
 
@@ -32,26 +32,42 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
-### Herramientas
+### Herramientas de Desarrollo
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Qwen AI](https://img.shields.io/badge/Qwen_AI-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+### Producción de Contenido
+<div align="center">
+
 ![OBS Studio](https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obs-studio&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 </div>
 
-### APIs & Cloud
+### APIs & Servicios
 <div align="center">
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+### Sistemas Operativos
+<div align="center">
+
+![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 </div>
 
@@ -60,7 +76,8 @@
 
 ![Lenovo](https://img.shields.io/badge/Lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel_Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![iPhone](https://img.shields.io/badge/iPhone_11-000000?style=for-the-badge&logo=apple&logoColor=white)
+![AirPods](https://img.shields.io/badge/AirPods-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </div>
 
@@ -75,6 +92,7 @@
 |  **WhatsApp Bot IA** | Bot con IA usando Meta Cloud API + Gemini | 🚧 En desarrollo |
 | 📚 **qwen-context** | Documentación de mi stack | ✅ Activo |
 | 🎥 **Contenido TikTok** | Tutoriales de desarrollo | 🎬 Grabando |
+|  **Security Testing** | Testing de código con Kali Linux | 🧪 En progreso |
 
 </div>
 
@@ -94,11 +112,11 @@
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 <div align="center">
 
-| 📧 Email |  WhatsApp | 🎥 TikTok | 📺 YouTube |
+|  Email |  WhatsApp | 🎥 TikTok | 📺 YouTube |
 |----------|-------------|-----------|------------|
 | andrassaavedra23@gmail.com | [+51 938 109 096](https://wa.me/51938109096) | @tu_usuario | @tu_canal |
 
@@ -108,7 +126,7 @@
 
 <div align="center">
 
-### ⚡ "Enseñando lo que aprendo, aprendiendo lo que enseño" ⚡
+### ⚡ "Enseñando lo que aprendo, aprendiendo lo que enseño" 
 
 [![Visit Profile](https://img.shields.io/badge/Visit_My_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrassaavedra23-hue)
 
