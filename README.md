@@ -4,7 +4,7 @@
 
 ### 🤖 AI Developer • Automation Engineer • Content Creator
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Construyendo+Bots+con+IA;Automatizando+Empresas;Python+Developer;WhatsApp+%7C+Telegram+%7C+OpenAI+%7C+Gemini;Enseñando+IA+en+TikTok+y+YouTube" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Construyendo+Bots+con+IA;Automatizando+Empresas;Python+Developer" />
 
 <br>
 
