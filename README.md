@@ -98,6 +98,22 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrassaavedra23-hue&show_icons=true&theme=github-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrassaavedra23-hue&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=andrassaavedra23-hue&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📫 Contacto y Redes
 
 <div align="center">
